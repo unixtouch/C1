@@ -1,4 +1,4 @@
-name: Cl
+name: rdp
 
 on: [push, workflow_dispatch]
 
